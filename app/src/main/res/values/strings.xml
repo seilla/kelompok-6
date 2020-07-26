@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">WisataBelanja</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_to_account">LOGIN TO ACCOUNT</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password_or_username">Forgot Password,</string>
+    <string name="register_here">Register Here</string>
+    <string name="click_here">CLICK HERE</string>
+    <string name="hallo">Hallo</string>
+    <string name="silahkan_registrasi_terlebih_dahulu">Silahkan registrasi terlebih dahulu</string>
+    <string name="setuju_dengan_syarat_dan_ketentuan">Setuju dengan syarat dan ketentuan</string>
+    <string name="un">Username</string>
+    <string name="up">Ulangi Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="nomer_hp">Nomer HP</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="lihat_semua"><![CDATA[Lihat Semua >>]]></string>
+    <string name="search">Search</string>
+    <string name="malio">Malioboro</string>
+    <string name="hartono">Hartono</string>
+    <string name="jlndiyk">Jalan di Yogyakarta</string>
+    <string name="sm">Shopping Mall</string>
+    <string name="psr">Pasar</string>
+    <string name="beringharjo">Beringharjo</string>
+    <string name="lihat"><![CDATA[Lihat >>]]></string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="maliodesc">Jalan Malioboro adalah nama salah satu kawasan jalan dari tiga jalan di Kota Yogyakarta yang membentang dari Tugu Yogyakarta hingga ke perempatan Kantor Pos Yogyakarta. Secara keseluruhan terdiri dari Jalan Margo Utomo, Jalan Malioboro, dan Jalan Margo Mulyo. Jalan ini merupakan poros Garis Imajiner Kraton Yogyakarta.
+        \n\nPada tanggal 20 Desember 2013, pukul 10.30 oleh Sri Sultan Hamengkubuwono X nama dua ruas jalan Malioboro dikembalikan ke nama aslinya, Jalan Pangeran Mangkubumi menjadi jalan Margo Utomo, dan Jalan Jenderal Achmad Yani menjadi jalan Margo Mulyo.
+        \n\nTerdapat beberapa objek bersejarah di kawasan tiga jalan ini antara lain Tugu Yogyakarta, Stasiun Tugu, Gedung Agung, Pasar Beringharjo, Benteng Vredeburg, dan Monumen Serangan Oemoem 1 Maret.
+        \n\nJalan Malioboro sangat terkenal dengan para pedagang kaki lima yang menjajakan kerajinan khas Jogja dan warung-warung lesehan di malam hari yang menjual makanan gudeg Jogja serta terkenal sebagai tempat berkumpulnya para seniman yang sering mengekpresikan kemampuan mereka seperti bermain musik, melukis, hapening art, pantomim, dan lain-lain di sepanjang jalan ini.
+        \n\nSaat ini, Jalan Malioboro tampak lebih lebar karena tempat parkir yang ada di pinggir jalan sudah dipindahkan ke kawasan parkir Abu Bakar Ali. Karena Kedepanya Malioboro Akan Menjadi Semi Pedestrian</string>
+
+    <string name="hartonodesc">Hartono Mall Yogyakarta berdiri di bawah naungan PT. Delta Merlin Dunia Properti. Sebelumnya PT. Delta Merlin Dunia Properti telah membangun beberapa hotel dan mall seperti The Alana Solo, Best Western Solo, Hartono Mall Solo, dan Hartono Trade Center.
+        \n\nPertama kali dibuka pada tanggal 20 November 2015, Hartono Mall Yogyakarta menjadi mall terbesar di Yogyakarta dan Jawa Tengah dengan total tenant sebanyak 300 unit. Hartono Mall Yogyakarta menyajikan berbagai brand besar seperti Parkson Department Store, Matahari Department Store, HM Department Store, CGV* Cinemas, Ace Hardware, Informa, Hypermart, dan masih banyak brand besar lainnya.
+        \n\nSesuai dengan tagline "Your Shopping World!", Hartono Mall Yogyakarta menyuguhkan berbagai pilihan store untuk memenuhi kebutuhan berbelanja Anda. Jadi tunggu apa lagi, segera datang ke Hartono Mall Yogyakarta dan jelajahi serunya berbelanja di sini. Hartono Mall Yogyakarta, Your Shopping World!</string>
+    <string name="beringharjodesc">Pasar Beringharjo adalah pasar tertua dengan nilai historis dan filosofis yang tidak dapat dipisahkan dengan Kraton Yogyakarta. Beringharjo memiliki makna harafiah hutan pohon beringin yang diharapkan memberikan kesejahteraan bagi warga Yogyakarta. Pasar Beringharjo terletak di Jalan Jenderal Ahmad Yani nomor 16, Yogyakarta.[3] Ada banyak jenis barang yang dapat dibeli di Pasar Beringharjo, mulai dari batik, jajanan pasar, uang kuno, pakaian anak dan dewasa, makanan cepat saji, bahan dasar jamu tradisional, sembako hingga barang antik.
+\n\nWilayah Pasar Beringharjo pada awalnya adalah hutan beringin. Tidak lama setelah berdirinya Kraton Yogyakarta pada tahun 1758, wilayah pasar ini dijadikan tempat transaksi ekonomi oleh warga Yogyakarta dan sekitarnya. Ratusan tahun kemudian pada tanggal 24 Maret tahun 1925, Keraton Yogyakarta menugaskan Nederlansch Indisch Beton Maatschappij (Perusahaan Beton Hindia Belanda) untuk membangun los-los pasar. Pada akhir Agustus 1925, 11 kios telah terselesaikan dan yang lainnya menyusul secara bertahap.
+\n\nNama Beringharjo diberikan setelah bertahtanya Sri Sultan Hamengku Buwono VIII pada tanggal 24 Maret tahun 1925. Sri Sultan Hamngku Buwono VIII memerintahkan agar semua instansi di bawah naungan Kesultanan Yogyakarta menggunakan Bahasa Jawa. Nama Beringharjo dipilih karena memiliki arti wilayah yang semula hutan beringin (bering) yang diharapkan dapat memberikan kesejahteraan (harjo). Nama Beringharjo sendiri dinilai tepat karena lokasi pasar merupakan bekas hutan beringin dan pohon beringin merupakan lambang kebesaran dan pengayoman bagi banyak orang.
+\n\nPasar Beringharjo memiliki nilai historis dan filosofis dengan Kraton Yogyakarta karena telah melewati tiga fase, yakni masa kerajaan, penjajahan, dan kemerdekaan. Pembangunan Pasar Beringharjo merupakan salah satu bagian dari rancang bangun pola tata kota Kesultanan Yogyakarta yang disebut Catur Tunggal. Pola tata kota ini mencakup empat hal yakni keraton sebagai pusat pemerintahan, alun-alun sebagai ruang publik, masjid sebagai tempat ibadah, dan pasar sebagai pusat transaksi ekonomi.
+    </string>
+    <string name="cari_tempat_ini">Cari tempat ini</string>
+    <string name="gabusan">Gabusan</string>
+    <string name="gabusandesc">Ada cara lain untuk menikmati karya seni warga Bantul tanpa harus kelelahan menjelajahi setiap dusun yang memproduksinya, yaitu dengan mendatangi Pasar Seni Gabusan. Pasar yang berlokasi di Jalan Parangtritis km 9 ini selama 2 tahun terakhir telah menjadi pusat jual beli kerajinan dari seluruh Bantul. Bukan sekedar pasar, Gabusan juga dilengkapi dengan fasilitas lain, seperti tempat jajan, akses teknologi informasi hingga toko kebutuhan sehari-hari.
+\n\n
+Sejak awal dibangun, Gabusan dirancang untuk membuka akses pengrajin ke pasar internasional. Karenanya, tak seperti pasar lain, desain pasar yang menampung sekitar 444 pengrajin ini juga bertaraf internasional. Perancangan bangunan pasar ini tak hanya melibatkan arsitek dalam negeri saja, tetapi juga mancanegara, tentu dengan menonjolkan arsitektur lokal. Terbagi dalam 16 los, Gabusan menjual kerajinan dari ragam bahan dasar, mulai dari kulit, logam, kayu, tanah liat hingga eceng gondok.
+\n\n
+Tiba di kawasan Pasar seni Gabusan, anda akan disapa oleh gerbang yang didesain sangat menarik. Di gerbang itu, tersedia resto yang akan memanjakan lidah, tempat penyebrangan dan ramp. Bersantap di resto itu, selain menikmati lezatnya hidangan anda juga dapat melihat pemandangan seluruh kawasan Gabusan dari atas. Tak jauh dari wilayah itu, terdapat ruko sebagai pusat informasi sekaligus tempat pelayanan kebutuhan wisatawan. Desain ruko itu sengaja dibuat artistik sehingga memiliki daya tarik tersendiri.</string>
+    <string name="ngasem">Ngasem</string>
+    <string name="pasty">Pasty</string>
+    <string name="ngasemdesc">Ngasem atau Pasar Ngasem adalah pasar yang dulunya menyediakan hewan peliharaan, khususnya burung yang terbesar di Yogyakarta. Saat ini Pasar Ngasem sudah tak lagi menjual burung, tetapi menjual produk konsumen. \n\n
+Masyarakat Jawa tak lepas dari tradisi dan kepercayaan. Merunut akar budaya Jawa, seorang pria tergolong berhasil apabila telah memiliki 5 hal utama, yaitu Wisma (rumah), istri (wanita), turangga (kuda), curiga (keris), dan burung peliharaan (kukila). Kukila adalah alasan bagi seorang pria Jawa untuk memelihara burung sehingga pasar burung menjadi suatu tempat yang sangat dibutuhkan oleh masyarakat Jawa. \n\n
+
+Menurut sejarahnya, kawasan Pasar Ngasem dahulunya merupakan danau yang sering digunakan Sultan Hamengku Buwono II berpelesir sambil melihat-lihat keindahan keraton dari luar benteng. Namun, sekian waktu berjalan danau tersebut beralih fungsi menjadi perkampungan dan di tengah-tengah kampung tersebut menjadi sebuah pasar yang khusus menjual burung. Keradaan Pasar Ngasem sendiri juga bisa memberikan info penting tentang apa yang dianggap bergengsi pada masa kerajaan dahulu. \n\n
+
+Pasar Ngasem konon telah ada sejak tahun 1809. Hal tersebut dibuktikan dengan sebuah foto yang menunjukkan Pasar Ngasem dengan barang dagangan utamanya berupa burung. Kemudian sekitar tahun 1960-an, pasar ini semakin identik dengan burung setelah pedagang burung dari Pasar Beringharjo dipindahkan ke tempat ini. Bukan hal mengherankan bila banyak turis menyebut pasar ini dengan bird market karena areal perdagangan burung sepertiga dari luas pasar.</string>
+    <string name="pastydetail">Pasar Satwa dan Tanaman Hias Yogyakarta atau PASTY (Pasar Satwa dan Tanaman Hias Ngayogyakarta) adalah pasar satwa dan tanaman hias terbesar di Yogyakarta. PASTY terletak di Jalan Bantul Km 1, Dongkelan, Mantrirejon, Yogyakarta. PASTY terbagi menjadi 2 zona yaitu zona satwa dan zona ikan hias yang terletak di sebelah timur jalan raya dan zona tanaman hias yang terletak di sebelah barat jalan raya. \n\n
+
+Masyarakat Jawa tak lepas dari tradisi dan kepercayaan. Merunut akar budaya Jawa, seorang pria tergolong berhasil apabila telah memiliki 5 hal utama, yaitu wisma (rumah), wanita (istri), turangga (kuda), curiga (keris), dan kukila (burung peliharaan). Kukila adalah alasan bagi seorang pria Jawa untuk memelihara burung sehingga pasar burung menjadi suatu tempat yang sangat dibutuhkan oleh masyarakat Jawa. \n\n
+
+Pada awalnya, pusat jual beli satwa dan tanaman hias di Yogyakarta adalah Pasar Ngasem yang terletak di Kawasan Benteng Keraton Yogyakarta, berdekatan dengan objek wisata Taman Sari Yogyakarta. Berlokasi di pusat kota, Pasar Ngasem semakin ramai dikunjungi bukan hanya oleh warga Yogyakarta namun juga oleh wisatawan lokal dan mancanegara sehingga kondisinya kurang kondusif. Demi menjaga fungsi pasar sebagai pusat aktivitas jual beli satwa dan tanaman hias, Pemerintah Kotamadya Yogyakarta memutuskan untuk merelokasi Pasar Ngasem ke lokasi lain. Selain itu, relokasi perlu dilakukan sebagai upaya untuk menjaga Taman Sari yang merupakan cagar budaya asli Yogyakarta. Relokasi pasar dilaksanakan pada 22 April 2014 dengan diiringi Kirab Budaya oleh 287 pedagang. Pemindahan pasar dilakukan sebagai upaya penataan kota oleh Pemerintah Kotamadya Yogyakarta. Sebelum dilakukan relokasi pasar satwa, lokasi telah dikenal sebagai Bursa Agro Jogja.</string>
+</resources>
